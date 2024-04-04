@@ -1,0 +1,27 @@
+table{
+    font-family: Impact , monospace;
+    border-collapse:collapse;
+    border-width: 3px;
+    border-style: solid;
+    border-color:#2E055C ;
+    
+}
+
+th{
+    font-family: Helvetica , monospace;
+    font-weight: 600;
+    background-color:#FFE90A ;
+    color:#5C05BC ;
+    
+}
+
+gallery img {
+         width:50%;
+}
+
+td{
+    color: #5C05BC ;
+    font-stretch: semi-condensed;
+    font-weight: 300;
+    
+}
